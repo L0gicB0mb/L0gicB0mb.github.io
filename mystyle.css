@@ -1,0 +1,12 @@
+﻿body {
+  background-color: black;
+  color: #39ff14
+}
+p::first-letter {
+  font-weight: bold;
+  font-size: 125%;
+}
+h1 {
+  color: #39ff14;
+  margin-left: 20px;
+}
