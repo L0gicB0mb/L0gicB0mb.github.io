@@ -4,13 +4,13 @@
 <title>Home Page</title>
 </head>
 <!--css style-->
-<link rel="stylesheet" href="mystyle.css">
+<link rel="stylesheet" href="\docs\assets\mystyle.css">
 <!--page style-->
 <BODY style="background-color:black" text="white" link="blue" vlink="red" alink="red">
 <!--Title-->
 <h1 align="center" style="font-family:'Courier New'">Welcome to Tristan's Home Page.</h1>
 <!--Image-->
-<center><img src="hockey beer.jpg" alt="Me at a hockey game" style="width:250px;height:250px;"></center>
+<center><img src="\docs\assets\hockey beer.jpg" alt="Me at a hockey game" style="width:250px;height:250px;"></center>
 
 </BODY>
 </HTML>
